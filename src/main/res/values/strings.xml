@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bind发送到电脑</string>
+    <string name="str_btn_scancode">扫码连接</string>
+    <string name="str_btn_connectmanual">保存IP</string>
+    <string name="textedit_ipaddr">IP地址</string>
+    <string name="textedit_port">端口</string>
+</resources>
